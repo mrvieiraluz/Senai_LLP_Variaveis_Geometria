@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Bola {
+public class Cilindro {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
      
