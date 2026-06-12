@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Naim {
+public class Triangulo {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
      
