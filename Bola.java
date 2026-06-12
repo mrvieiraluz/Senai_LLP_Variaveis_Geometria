@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Vlai {
+public class Bola {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
      
